@@ -1,12 +1,13 @@
-사용된 언어 : Java
-실습에 활용된 IDE : Eclipse IDE for Java Developers - 2026-09
-버전 : JavaSE-25
-
-실행 방법 : Eclipse IDE 환경에서 Java project 생성 --> package 생성 --> main 함수가 포함된 class인 SingletonMain에 SingletonMain.java의 명령어를 넣고 Singleton.java를 또 다른 클래스로 선언 후 최종 실행한다.
-또는 SingletonProject.jar (Runnable Jar File) 파일을 cmd를 통해 실행한다.
+사용된 언어 : Java <br>
+실습에 활용된 IDE : Eclipse IDE for Java Developers - 2026-09 <br>
+버전 : JavaSE-25 <br>
+<br>
+실행 방법 : Eclipse IDE 환경에서 Java project 생성 --> package 생성 --> main 함수가 포함된 class인 SingletonMain에 SingletonMain.java의 명령어를 넣고 Singleton.java를 또 다른 클래스로 선언 후 최종 실행한다. <br>
+또는 SingletonProject.jar (Runnable Jar File) 파일을 cmd를 통해 실행한다. <br>
 
 ![window에서 SingletonProject.jar 바로 실행](images/excution.png)
 
+<br>
 #실행 결과
 ![싱글톤 실행 결과](images/result.png)
 
